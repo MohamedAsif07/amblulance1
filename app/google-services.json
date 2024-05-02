@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811925836837",
+    "project_id": "amblulance1",
+    "storage_bucket": "amblulance1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811925836837:android:58734477b3ef02c0749bcc",
+        "android_client_info": {
+          "package_name": "com.hardware.amblulance1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsDhaGkNBHRh7aeoTrnmyYsml5PUVHTBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<!-- premium_card_background.xml -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Gradient background -->
+    <gradient
+        android:startColor="#FFC107"
+        android:endColor="#FF9800"
+        android:angle="45"/> <!-- Gradient angle -->
+
+    <!-- Rounded corners -->
+    <corners
+        android:radius="8dp" /> <!-- Corner radius -->
+
+    <!-- Add stroke for border -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" /> <!-- Stroke color -->
+</shape>

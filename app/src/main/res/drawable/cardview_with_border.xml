@@ -1,0 +1,11 @@
+<!-- cardview_with_border.xml -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Background color (white) -->
+    <solid android:color="@android:color/white" />
+    <!-- Border color (black) and width (2dp) -->
+    <stroke
+        android:width="2dp"
+        android:color="#000000" />
+</shape>
